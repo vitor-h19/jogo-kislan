@@ -1,0 +1,22 @@
+@font-face{
+    font-family: 'Kidspace-DEMO';
+    src: url('../font/Kidspace-DEMO.ttf');
+}
+
+body{
+    background: #808080;
+}
+
+canvas{
+    width: 453px;
+    height: 607px;
+}
+
+.container{
+    width: 453px;
+    height: 607px;
+    background: rgb(0, 0, 0);
+    position: relative;
+    margin: 0 auto;
+    border: solid 1px;
+}
